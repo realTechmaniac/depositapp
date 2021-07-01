@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/depositapp/static/css/main.4301ad45.chunk.css",
+    "main.js": "/depositapp/static/js/main.30328eb8.chunk.js",
+    "main.js.map": "/depositapp/static/js/main.30328eb8.chunk.js.map",
+    "runtime-main.js": "/depositapp/static/js/runtime-main.8024479a.js",
+    "runtime-main.js.map": "/depositapp/static/js/runtime-main.8024479a.js.map",
+    "static/js/2.d6cd9379.chunk.js": "/depositapp/static/js/2.d6cd9379.chunk.js",
+    "static/js/2.d6cd9379.chunk.js.map": "/depositapp/static/js/2.d6cd9379.chunk.js.map",
+    "static/js/3.eda6c83a.chunk.js": "/depositapp/static/js/3.eda6c83a.chunk.js",
+    "static/js/3.eda6c83a.chunk.js.map": "/depositapp/static/js/3.eda6c83a.chunk.js.map",
+    "index.html": "/depositapp/index.html",
+    "static/css/main.4301ad45.chunk.css.map": "/depositapp/static/css/main.4301ad45.chunk.css.map",
+    "static/js/2.d6cd9379.chunk.js.LICENSE.txt": "/depositapp/static/js/2.d6cd9379.chunk.js.LICENSE.txt",
+    "static/media/image.6f3ac463.svg": "/depositapp/static/media/image.6f3ac463.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8024479a.js",
+    "static/js/2.d6cd9379.chunk.js",
+    "static/css/main.4301ad45.chunk.css",
+    "static/js/main.30328eb8.chunk.js"
+  ]
+}
